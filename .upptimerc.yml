@@ -16,7 +16,7 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Site status updates for the fandom-oriented mastodon instance, Blorbo.Social!
   theme: dark
-  themeUrl: assets/blorbo.css
+  # themeUrl: assets/blorbo.css
   navbar:
     - title: Status
       href: /
