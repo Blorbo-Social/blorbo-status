@@ -4,17 +4,17 @@
     "url": "https://blorbo.social",
     "icon": "https://icons.duckduckgo.com/ip3/blorbo.social.ico",
     "slug": "blorbo-social",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 537,
-    "timeWeek": 597,
-    "timeMonth": 675,
-    "timeYear": 721,
+    "time": 715,
+    "timeDay": 489,
+    "timeWeek": 577,
+    "timeMonth": 668,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   }
 ]
